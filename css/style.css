@@ -1,0 +1,19 @@
+.clearfix:after {
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.rosso{
+    background-color: darkred;
+}
+
+.verde{
+    background-color: darkgreen;
+}
+.viola{
+    background-color: purple;
+}
+.giallo{
+    background-color: yellow;
+}
